@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FAZENDA MATRINCHÃ 2.kml</name>
+	<StyleMap id="inline28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline34</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline34">
+		<LineStyle>
+			<color>ffff5555</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline9">
+		<LineStyle>
+			<color>ffff5555</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>FAZENDA MATRINCHÃ 2</name>
+		<open>1</open>
+		<styleUrl>#inline28</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-50.84613513962,-15.29421024330659,0 -50.86316037357015,-15.28084145971897,0 -50.90672890633248,-15.2886184798555,0 -50.9090119372488,-15.29921848427789,0 -50.90452907832913,-15.30683561049904,0 -50.90254350091907,-15.3119010934453,0 -50.88697990553646,-15.30476879071101,0 -50.88753527707734,-15.30163643580685,0 -50.87821579052019,-15.29994652663335,0 -50.84613513962,-15.29421024330659,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
